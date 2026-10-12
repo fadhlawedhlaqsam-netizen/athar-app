@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Athar icon">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="68%">
+      <stop offset="0%" stop-color="#7a2f42"/>
+      <stop offset="100%" stop-color="#4a1223"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bg)"/>
+  <g fill="none" stroke="#f5d7d0" stroke-width="7" opacity="0.3">
+    <path d="M256 68 L256 444 M68 256 L444 256 M122 122 L390 390 M390 122 L122 390"/>
+    <circle cx="256" cy="256" r="170"/>
+  </g>
+  <g fill="#f9e7df" font-family="Tahoma, Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="256" y="298" font-size="200">أ</text>
+  </g>
+  <g fill="#f1b79c" opacity="0.9">
+    <circle cx="111" cy="96" r="5"/>
+    <circle cx="404" cy="96" r="5"/>
+    <circle cx="96" cy="412" r="5"/>
+    <circle cx="416" cy="412" r="5"/>
+    <circle cx="256" cy="76" r="5"/>
+    <circle cx="256" cy="436" r="5"/>
+  </g>
+</svg>
